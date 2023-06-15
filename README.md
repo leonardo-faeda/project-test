@@ -9,3 +9,5 @@ Comandos básicos de git:
 - git commit
 - git status
 - git log
+- git push
+- git pull
