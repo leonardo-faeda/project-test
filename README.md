@@ -11,3 +11,5 @@ Comandos básicos de git:
 - git log
 - git push
 - git pull
+- git branch
+- git checkout
